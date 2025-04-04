@@ -10,3 +10,9 @@ The Breast Cancer Wisconsin dataset contains 699 patient records collected from 
 - Target: Tumor class (benign = 0, malignant = 1)
 
 We use the Breast Cancer Wisconsin dataset from the `mlbench` package.
+
+## Data Viz
+
+Some of the results:
+![malig-degree](/images/malg-degree.png)
+![pca](/images/pca.png)
